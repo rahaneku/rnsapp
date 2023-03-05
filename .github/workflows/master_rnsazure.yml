@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'rnsazure'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_05A53790A8F84674B9CAAE4E4E295960 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_56B29C71DF544D39915128859ABF5A9C }}
